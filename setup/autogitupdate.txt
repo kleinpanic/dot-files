@@ -39,7 +39,7 @@
 /home/klein/codeWS/C/ssh_gui
 /home/klein/codeWS/C/systemmon
 /home/klein/codeWS/C/systemwindow
-/home/klein/codeWS/C/systray
+/home/klein/codeWS/C/systray-c
 /home/klein/codeWS/C/test
 /home/klein/codeWS/C/testfunctions
 /home/klein/codeWS/C/todo_app
@@ -53,7 +53,7 @@
 /home/klein/codeWS/Python3/chess
 /home/klein/codeWS/Python3/clock
 /home/klein/codeWS/Python3/convertions
-/home/klein/codeWS/Python3/earth
+/home/klein/codeWS/Python3/earth-py
 /home/klein/codeWS/Python3/flight_tracker
 /home/klein/codeWS/Python3/IntroSam
 /home/klein/codeWS/Python3/local_website_project
@@ -62,7 +62,7 @@
 /home/klein/codeWS/Python3/screenrecorder
 /home/klein/codeWS/Python3/simulation_labs
 /home/klein/codeWS/Python3/spotify_dl
-/home/klein/codeWS/Python3/systrays
+/home/klein/codeWS/Python3/systrays-py
 /home/klein/codeWS/Python3/textual
 /home/klein/codeWS/Python3/tone_generator
 /home/klein/codeWS/Python3/translator
