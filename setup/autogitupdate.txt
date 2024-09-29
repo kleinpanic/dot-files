@@ -2,7 +2,7 @@
 /home/klein/vimwiki
 /home/klein/.config
 /home/klein/Music
-/home/klein/codeWS/Asm/gui
+/home/klein/codeWS/Asm/gui-2
 /home/klein/codeWS/Asm/GUI
 /home/klein/codeWS/Asm/Learning_Assembly
 /home/klein/codeWS/Asm/TeachMeProjects
@@ -69,4 +69,5 @@
 /home/klein/codeWS/Python3/tui
 /home/klein/codeWS/Python3/vector
 /home/klein/codeWS/Python3/vinlookup
-/home/klein/codeWS/SystemD/
+/home/klein/codeWS/SystemD
+/home/klen/codeWS/Arduino
