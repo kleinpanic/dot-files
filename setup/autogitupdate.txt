@@ -30,7 +30,7 @@
 /home/klein/codeWS/C/code_analyzer
 /home/klein/codeWS/C/coinflipper
 /home/klein/codeWS/C/corews
-/home/klein/codeWS/C/earth
+/home/klein/codeWS/C/earth-c
 /home/klein/codeWS/C/git_manager
 /home/klein/codeWS/C/linuxframebufferprojects
 /home/klein/codeWS/C/mpvd
