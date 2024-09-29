@@ -7,7 +7,7 @@
 /home/klein/codeWS/Asm/Learning_Assembly
 /home/klein/codeWS/Asm/TeachMeProjects
 /home/klein/codeWS/Asm/x11
-/home/klein/codeWS/Bash/AccessSuite
+/home/klein/codeWS/Bash/AccessSuite-bash
 /home/klein/codeWS/Bash/arduino-additions/board-selection
 /home/klein/codeWS/Bash/arduino-additions/serial-plotter
 /home/klein/codeWS/Bash/cronjobs/auto_git_update
@@ -19,7 +19,7 @@
 /home/klein/codeWS/Bash/textscripts
 /home/klein/codeWS/Bash/themes
 /home/klein/codeWS/Bash/wrapperscripts
-/home/klein/codeWS/C/AccessSuite
+/home/klein/codeWS/C/AccessSuite-C
 /home/klein/codeWS/C/backups
 /home/klein/codeWS/C/bat0daemon
 /home/klein/codeWS/C/battery_saving_mode_project
