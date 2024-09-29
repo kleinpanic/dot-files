@@ -1,0 +1,24 @@
+<unity_prefs version_major="1" version_minor="1">
+	<pref name="Language" type="string">ZW4=</pref>
+	<pref name="SETTING_CAMERA_EDGE" type="int">0</pref>
+	<pref name="SETTING_DEBUG" type="int">0</pref>
+	<pref name="SETTING_FPS" type="int">0</pref>
+	<pref name="SETTING_FULLSCREEN" type="int">1</pref>
+	<pref name="SETTING_MASTER_VOLUME" type="int">10</pref>
+	<pref name="SETTING_MUSIC_VOLUME" type="int">20</pref>
+	<pref name="SETTING_RESOLUTION_HEIGHT" type="int">1200</pref>
+	<pref name="SETTING_RESOLUTION_WIDTH" type="int">1920</pref>
+	<pref name="SETTING_SOUND_VOLUME" type="int">20</pref>
+	<pref name="SETTING_VSYNC" type="int">1</pref>
+	<pref name="Screenmanager Fullscreen mode" type="int">1</pref>
+	<pref name="Screenmanager Fullscreen mode Default" type="int">1</pref>
+	<pref name="Screenmanager Resolution Height" type="int">1200</pref>
+	<pref name="Screenmanager Resolution Height Default" type="int">768</pref>
+	<pref name="Screenmanager Resolution Use Native" type="int">1</pref>
+	<pref name="Screenmanager Resolution Use Native Default" type="int">1</pref>
+	<pref name="Screenmanager Resolution Width" type="int">1920</pref>
+	<pref name="Screenmanager Resolution Width Default" type="int">1024</pref>
+	<pref name="UnitySelectMonitor" type="int">0</pref>
+	<pref name="unity.player_session_count" type="string">Mw==</pref>
+	<pref name="unity.player_sessionid" type="string">NzQ1MDU2OTE5NDQ0MzIwOTQ4NQ==</pref>
+</unity_prefs>

@@ -1,0 +1,5 @@
+/home/klein/DynamicWindowManagement
+/home/klein/vimwiki
+/home/klein/.config
+/home/klein/Music
+/home/klein/codeWS/C/AccessSuite

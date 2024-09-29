@@ -1,0 +1,1 @@
+importScripts("browser-polyfill.js","background.bundle.js");

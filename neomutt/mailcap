@@ -1,0 +1,10 @@
+text/plain; $EDITOR %s
+application/pdf; zathura --fork %s
+text/html; w3m -I 'UTF-8' -dump -T text/html %s; nametemplate=%s.html; copiousoutput
+image/*; nsxiv %s &
+video/*; setsid mpv --quiet %s &; copiousoutput
+audio/*; mpv %s &
+
+# References
+#
+# https://github.com/LukeSmithxyz/mutt-wizard/blob/master/share/mailcap

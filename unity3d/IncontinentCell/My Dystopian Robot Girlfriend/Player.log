@@ -1,0 +1,3226 @@
+Preloaded 'libLive2DCubismCore.so'
+Preloaded 'lib_burst_generated.so'
+Preloaded 'libsteam_api.so'
+Display 0 'eDP-1 14"': 1920x1200 (primary device).
+[Physics::Module] Initialized MultithreadedJobDispatcher with 11 workers.
+Unable to load player prefs
+Desktop is 1920 x 1200 @ 60 Hz
+Initialize engine version: 2022.3.20f1 (61c2feb0970d)
+[Subsystems] Discovering subsystems at path /home/klein/My Dystopian Robot Girlfriend_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=0
+Renderer: Mesa Intel(R) Graphics (ADL GT2)
+Vendor:   Intel
+Version:  4.6 (Core Profile) Mesa 22.3.6
+GLES:     0
+ GL_3DFX_texture_compression_FXT1 GL_AMD_conservative_depth GL_AMD_depth_clamp_separate GL_AMD_draw_buffers_blend GL_AMD_gpu_shader_int64 GL_AMD_multi_draw_indirect GL_AMD_performance_monitor GL_AMD_pinned_memory GL_AMD_query_buffer_object GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_stencil_export GL_AMD_shader_trinary_minmax GL_AMD_texture_texture4 GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB
+_depth_clamp GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_fragment_shader_interlock GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_po
+int_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_stencil_export GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier G
+L_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewpor
+t_array GL_ATI_blend_equation_separate GL_ATI_texture_float GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_debug_label GL_EXT_demote_to_helper_invocation GL_EXT_depth_bounds_test GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_framebuffer_fetch GL_EXT_shader_framebuffer_fetch_non_coherent GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow
+_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_INTEL_conservative_rasterization GL_INTEL_performance_query GL_INTEL_shader_atomic_float_minmax GL_INTEL_shader_integer_functions2 GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_fragment_shader_interlock GL_NV_packed_depth_stencil GL_NV_texture_barrier GL_OES_EGL_image GL_S3_s3tc
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 11840416
+../src/intel/isl/isl.c:2235: FINISHME: ../src/intel/isl/isl.c:isl_surf_supports_ccs: CCS for 3D textures is disabled, but a workaround is available.
+Default vsync count 1
+requesting resize 1920 x 1080
+requesting fullscreen 1920 x 1080 at 0/1 Hz
+Setting up downscaled viewport at 1920 x 1080
+Desktop is 1920 x 1200 @ 60 Hz
+Desktop is 1920 x 1200 @ 60 Hz
+UnloadTime: 0.474507 ms
+Failed to find the main file "/PlayerPrefs.pp"!
+SaveFileHelper:TryLoadFileToJson(String, T&, String)
+PlayerPrefs:.cctor()
+PlayerPrefsBooleanKey:GetValueInner()
+PlayerPrefsSimpleKey`1:op_Implicit(PlayerPrefsSimpleKey`1)
+OptionsStatic:SyncResolution()
+OptionsStatic:LoadSettings()
+GameScript:Start()
+
+Failed to find the backup file "/PlayerPrefs.pp"!
+SaveFileHelper:TryLoadFileToJson(String, T&, String)
+PlayerPrefs:.cctor()
+PlayerPrefsBooleanKey:GetValueInner()
+PlayerPrefsSimpleKey`1:op_Implicit(PlayerPrefsSimpleKey`1)
+OptionsStatic:SyncResolution()
+OptionsStatic:LoadSettings()
+GameScript:Start()
+
+Failed loading PlayerPrefs!
+PlayerPrefs:.cctor()
+PlayerPrefsBooleanKey:GetValueInner()
+PlayerPrefsSimpleKey`1:op_Implicit(PlayerPrefsSimpleKey`1)
+OptionsStatic:SyncResolution()
+OptionsStatic:LoadSettings()
+GameScript:Start()
+
+requesting resize 1280 x 720
+resizing window to 1280 x 720
+Desktop is 1920 x 1200 @ 60 Hz
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 210 (202), X11 KeySym 0x1008FF43 (XF86Launch3).
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 210 (202), X11 KeySym 0x1008FF43 (XF86Launch3).
+Failed to find the main file "/localmodinfo.json"!
+SaveFileHelper:TryLoadFileToJson(String, T&, String)
+ModsSingleton:LoadLocalModInfo()
+<Load>d__58:MoveNext()
+<LoadAll>d__4:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Failed to find the backup file "/localmodinfo.json"!
+SaveFileHelper:TryLoadFileToJson(String, T&, String)
+ModsSingleton:LoadLocalModInfo()
+<Load>d__58:MoveNext()
+<LoadAll>d__4:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Failed to load localmodinfo.json file! Creating a new one!
+ModsSingleton:LoadLocalModInfo()
+<Load>d__58:MoveNext()
+<LoadAll>d__4:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Failed to find the main file "/save.mdrg"!
+SaveFileHelper:TryLoadFileToJson(String, T&, String)
+<Load>d__10:MoveNext()
+<LoadAll>d__4:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Failed to find the backup file "/save.mdrg"!
+SaveFileHelper:TryLoadFileToJson(String, T&, String)
+<Load>d__10:MoveNext()
+<LoadAll>d__4:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Load unsuccesful. Had to create new save container.
+<Load>d__10:MoveNext()
+<LoadAll>d__4:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Overriding character adapter with id: Bot!
+ConversationSingleton:AddAdapter(ISayDialogCharacter)
+<Load>d__24:MoveNext()
+<LoadAll>d__4:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+requesting resize 1280 x 720
+resizing window to 1280 x 720
+Desktop is 1920 x 1200 @ 60 Hz
+Unloading 5 Unused Serialized files (Serialized files now loaded: 26)
+Unloading 243 unused Assets to reduce memory usage. Loaded Objects now: 15207.
+Total: 20.602371 ms (FindLiveObjects: 0.949381 ms CreateObjectMapping: 0.305472 ms MarkObjects: 18.585516 ms  DeleteObjects: 0.761530 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 26)
+Switching view from  to Menu View (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Fungus.FadeToView:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.Flowchart:ExecuteBlock(Block, Int32, Action)
+<LoadAll>d__4:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 15228.
+Total: 20.127634 ms (FindLiveObjects: 1.376851 ms CreateObjectMapping: 0.585898 ms MarkObjects: 18.120634 ms  DeleteObjects: 0.043653 ms)
+
+Changed game state to EmptyGameState to GameScript+MainMenuState
+GameStateMachine:ChangeState(GameState)
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to GameScript+MainMenuState to StoryState(Message "Prologue")
+GameStateMachine:ChangeState(GameState)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from Menu View (Fungus.View) to View 1 (ViewWithSpriteRenderer)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.Flowchart:ExecuteBlock(Block, Int32, Action)
+Fungus.Flowchart:SendFungusMessage(String)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from View 1 (ViewWithSpriteRenderer) to View 2 (ViewWithSpriteRenderer)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.<CallBlock>d__14:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 2 (ViewWithSpriteRenderer) to View 1 (ViewWithSpriteRenderer)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 1 (ViewWithSpriteRenderer) to View 2 (ViewWithSpriteRenderer)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 2 (ViewWithSpriteRenderer) to View 1 (ViewWithSpriteRenderer)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 1 (ViewWithSpriteRenderer) to View 2 (ViewWithSpriteRenderer)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.Call:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 2 (ViewWithSpriteRenderer) to View 1 (ViewWithSpriteRenderer)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 1 (ViewWithSpriteRenderer) to View 2 (ViewWithSpriteRenderer)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 2 (ViewWithSpriteRenderer) to View 1 (ViewWithSpriteRenderer)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 1 (ViewWithSpriteRenderer) to Room View (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Fungus.FadeToView:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.Call:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Live2D Cubism SDK Core Version 5.0.0
+ModelBrain: Starting with EmptyBrainState!
+ModelBrain:EnsureEmptyBrainState()
+ModelBrain:OnEnable()
+UnityEngine.GameObject:AddComponent()
+ModelBrain:CreateOrGet(String)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.<>c__DisplayClass29_0:<FadeToView>b__0()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+StateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.<>c__DisplayClass29_0:<FadeToView>b__0()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to StoryState(Message "Prologue") to StoryState(Empty)
+GameStateMachine:ChangeState(GameState)
+StartStory:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 248 (240), X11 KeySym 0x0 ((null)).
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 248 (240), X11 KeySym 0x0 ((null)).
+Switching view from Room View (Fungus.View) to View 1 (ViewWithSpriteRenderer)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.Call:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to EmptyBrainState!
+StateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+Live2DHolder:Restore(Live2DPrefabHolder)
+RoomScene:EndOldView(ViewSceneTransitionInfo)
+Fungus.CameraManager:EndViewSwitching()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 1 (ViewWithSpriteRenderer) to PC View (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Fungus.FadeToView:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to StoryState(Empty) to GameScript+PcState
+GameStateMachine:ChangeState(GameState)
+StartPc:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 248 (240), X11 KeySym 0x0 ((null)).
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 248 (240), X11 KeySym 0x0 ((null)).
+Changed game state to GameScript+PcState to StoryState(Empty)
+GameStateMachine:ChangeState(GameState)
+StartStory:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from PC View (Fungus.View) to View 1 (ViewWithSpriteRenderer)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 1 (ViewWithSpriteRenderer) to View 2 (ViewWithSpriteRenderer)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.Call:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 2 (ViewWithSpriteRenderer) to PC View (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Fungus.FadeToView:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to StoryState(Empty) to GameScript+PcState
+GameStateMachine:ChangeState(GameState)
+StartPc:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to GameScript+PcState to StoryState(Empty)
+GameStateMachine:ChangeState(GameState)
+StartStory:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from PC View (Fungus.View) to Room View (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Fungus.FadeToView:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+StateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.<>c__DisplayClass29_0:<FadeToView>b__0()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from Room View (Fungus.View) to View 1 (ViewWithSpriteRenderer)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to EmptyBrainState!
+StateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+Live2DHolder:Restore(Live2DPrefabHolder)
+RoomScene:EndOldView(ViewSceneTransitionInfo)
+Fungus.CameraManager:EndViewSwitching()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 1 (ViewWithSpriteRenderer) to Room View (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Fungus.FadeToView:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+StateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.<>c__DisplayClass29_0:<FadeToView>b__0()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from Room View (Fungus.View) to View 1 (ViewWithSpriteRenderer)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.Call:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to EmptyBrainState!
+StateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+Live2DHolder:Restore(Live2DPrefabHolder)
+RoomScene:EndOldView(ViewSceneTransitionInfo)
+Fungus.CameraManager:EndViewSwitching()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 1 (ViewWithSpriteRenderer) to PC View (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Fungus.FadeToView:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to StoryState(Empty) to GameScript+PcState
+GameStateMachine:ChangeState(GameState)
+StartPc:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to GameScript+PcState to StoryState(Empty)
+GameStateMachine:ChangeState(GameState)
+StartStory:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from PC View (Fungus.View) to Room View (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Fungus.FadeToView:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.Call:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+StateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.<>c__DisplayClass29_0:<FadeToView>b__0()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to StoryState(Empty) to StoryState(Empty)
+GameStateMachine:ChangeState(GameState)
+StartStory:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from Room View (Fungus.View) to View 1 (ViewWithSpriteRenderer)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to EmptyBrainState!
+StateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+Live2DHolder:Restore(Live2DPrefabHolder)
+RoomScene:EndOldView(ViewSceneTransitionInfo)
+Fungus.CameraManager:EndViewSwitching()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 1 (ViewWithSpriteRenderer) to Missionary View (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Fungus.FadeToView:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Live2D Cubism SDK Core Version 5.0.0
+Live2DFuckController+NormalState
+StateMachineWithOwner`1:ChangeState(StateWithOwner`1)
+Live2DFuckController:AfterResetEverything()
+Live2DController:ResetEverything()
+FrickScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.<>c__DisplayClass29_0:<FadeToView>b__0()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to StoryState(Empty) to NewFrickState
+GameStateMachine:ChangeState(GameState)
+FrickScene:StartNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:EndViewSwitching()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from EmptyBrainState to GenericFuckBrainState!
+StateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+NewFrickState:EnterState()
+FrickScene:StartNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:EndViewSwitching()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 248 (240), X11 KeySym 0x0 ((null)).
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 248 (240), X11 KeySym 0x0 ((null)).
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 248 (240), X11 KeySym 0x0 ((null)).
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 248 (240), X11 KeySym 0x0 ((null)).
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 248 (240), X11 KeySym 0x0 ((null)).
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 248 (240), X11 KeySym 0x0 ((null)).
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 248 (240), X11 KeySym 0x0 ((null)).
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 248 (240), X11 KeySym 0x0 ((null)).
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 248 (240), X11 KeySym 0x0 ((null)).
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 248 (240), X11 KeySym 0x0 ((null)).
+Changed game state to NewFrickState to StoryState(Block "Out of stamina")
+GameStateMachine:ChangeState(GameState)
+GameScript:FixedUpdate()
+
+ModelBrain: Switching from GenericFuckBrainState to EmptyBrainState!
+StateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameStateWithLive2D`1:ExitState()
+NewFrickState:ExitState()
+GameStateMachine:ChangeState(GameState)
+GameScript:FixedUpdate()
+
+Switching view from Missionary View (Fungus.View) to View 1 (ViewWithSpriteRenderer)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.Flowchart:ExecuteBlock(Block, Int32, Action)
+GameScript:FixedUpdate()
+
+Switching view from View 1 (ViewWithSpriteRenderer) to View 2 (ViewWithSpriteRenderer)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 2 (ViewWithSpriteRenderer) to Sleep View (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Fungus.FadeToView:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+StateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.<>c__DisplayClass29_0:<FadeToView>b__0()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from Sleep View (Fungus.View) to Room View (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Fungus.FadeToView:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.Call:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to EmptyBrainState!
+StateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+Live2DHolder:MovePrefabInto(Live2DPrefabHolder)
+RoomScene:SetupInteractionCharacter()
+RoomScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.<>c__DisplayClass29_0:<FadeToView>b__0()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+StateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.<>c__DisplayClass29_0:<FadeToView>b__0()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Saved autosave to slot 0 previus autosave happened 00 hrs, 09 mins, 41 secs ago
+SaveSingleton:TryMakeAutoSave()
+AutoSave:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to StoryState(Block "Out of stamina") to GameScript+RoomState
+GameStateMachine:ChangeState(GameState)
+GameScript:ChangeToRoomState()
+BackToRoom:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to RoomBrainState!
+StateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+RoomState:EnterState()
+GameScript:ChangeToRoomState()
+BackToRoom:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Day 2 10:54:{"data":"DAY 2, after 12:32","eventEnum":1}
+EventHolder:Activate()
+EventManager:SyncEvents(Boolean)
+GameVariables:MinutePassed(StaminaSyncType, Boolean)
+BackToRoom:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to GameScript+RoomState to StoryState(Message "DAY 2, after 12:32")
+GameStateMachine:ChangeState(GameState)
+EventManager:SyncEvents(Boolean)
+GameVariables:MinutePassed(StaminaSyncType, Boolean)
+BackToRoom:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from RoomBrainState to EmptyBrainState!
+StateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameStateWithLive2D`1:ExitState()
+GameStateMachine:ChangeState(GameState)
+EventManager:SyncEvents(Boolean)
+GameVariables:MinutePassed(StaminaSyncType, Boolean)
+BackToRoom:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from Room View (Fungus.View) to View 1 (ViewWithSpriteRenderer)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.Call:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 1 (ViewWithSpriteRenderer) to PC View (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Fungus.FadeToView:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to StoryState(Message "DAY 2, after 12:32") to GameScript+PcState
+GameStateMachine:ChangeState(GameState)
+StartPc:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Day 2 10:54:{"data":"","eventEnum":0}
+EventHolder:Activate()
+EmailBase:ReadEmail()
+EmailWebsite:<Open>b__8_2(NewEmail, Int32)
+ItemListAdapterBase`1:Focus(Int32)
+System.Reflection.RuntimeMethodInfo:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MethodBase:Invoke(Object, Object[])
+MoonSharp.Interpreter.Interop.MethodMemberDescriptor:Execute(Script, Object, ScriptExecutionContext, CallbackArguments)
+MoonSharp.Interpreter.Execution.VM.Processor:Internal_ExecCall(Int32, Int32, CallbackFunction, CallbackFunction, Boolean, String, DynValue)
+MoonSharp.Interpreter.Execution.VM.Processor:Processing_Loop(Int32)
+MoonSharp.Interpreter.Execution.VM.Processor:Coroutine_Resume(DynValue[])
+Fungus.<RunLuaCoroutine>d__7:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 248 (240), X11 KeySym 0x0 ((null)).
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 248 (240), X11 KeySym 0x0 ((null)).
+Day 2 10:54:{"data":"","eventEnum":0}
+EventHolder:Activate()
+EmailBase:ReadEmail()
+EmailWebsite:<Open>b__8_2(NewEmail, Int32)
+ItemListAdapterBase`1:Focus(Int32)
+System.Reflection.RuntimeMethodInfo:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MethodBase:Invoke(Object, Object[])
+MoonSharp.Interpreter.Interop.MethodMemberDescriptor:Execute(Script, Object, ScriptExecutionContext, CallbackArguments)
+MoonSharp.Interpreter.Execution.VM.Processor:Internal_ExecCall(Int32, Int32, CallbackFunction, CallbackFunction, Boolean, String, DynValue)
+MoonSharp.Interpreter.Execution.VM.Processor:Processing_Loop(Int32)
+MoonSharp.Interpreter.Execution.VM.Processor:Coroutine_Resume(DynValue[])
+Fungus.<RunLuaCoroutine>d__7:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.ExecuteLua:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Day 2 10:54:{"data":"","eventEnum":0}
+EventHolder:Activate()
+EmailBase:ReadEmail()
+EmailWebsite:<Open>b__8_2(NewEmail, Int32)
+ItemListAdapterBase`1:Focus(Int32)
+System.Reflection.RuntimeMethodInfo:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MethodBase:Invoke(Object, Object[])
+MoonSharp.Interpreter.Interop.MethodMemberDescriptor:Execute(Script, Object, ScriptExecutionContext, CallbackArguments)
+MoonSharp.Interpreter.Execution.VM.Processor:Internal_ExecCall(Int32, Int32, CallbackFunction, CallbackFunction, Boolean, String, DynValue)
+MoonSharp.Interpreter.Execution.VM.Processor:Processing_Loop(Int32)
+MoonSharp.Interpreter.Execution.VM.Processor:Coroutine_Resume(DynValue[])
+Fungus.<RunLuaCoroutine>d__7:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.ExecuteLua:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to GameScript+PcState to StoryState(Empty)
+GameStateMachine:ChangeState(GameState)
+StartStory:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from PC View (Fungus.View) to Room View (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Fungus.FadeToView:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+StateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.<>c__DisplayClass29_0:<FadeToView>b__0()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 248 (240), X11 KeySym 0x0 ((null)).
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 248 (240), X11 KeySym 0x0 ((null)).
+Changed game state to StoryState(Empty) to GameScript+RoomState
+GameStateMachine:ChangeState(GameState)
+GameScript:ChangeToRoomState()
+BackToRoom:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to RoomBrainState!
+StateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+RoomState:EnterState()
+GameScript:ChangeToRoomState()
+BackToRoom:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to GameScript+RoomState to StoryState(Empty)
+GameStateMachine:ChangeState(GameState)
+GameScript:StartInteract(Action`1)
+GameScript:Update()
+
+ModelBrain: Switching from RoomBrainState to EmptyBrainState!
+StateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameStateWithLive2D`1:ExitState()
+GameStateMachine:ChangeState(GameState)
+GameScript:StartInteract(Action`1)
+GameScript:Update()
+
+Switching view from Room View (Fungus.View) to Room Character View (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:MoveToView(Camera, View, Single, Action, PanType)
+GameScript:Update()
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+StateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.CameraManager:MoveToView(Camera, View, Single, Action, PanType)
+GameScript:Update()
+
+Changed game state to StoryState(Empty) to InteractState
+GameStateMachine:ChangeState(GameState)
+<>c__DisplayClass47_0:<StartInteract>b__0()
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to NewInteractBrainState!
+StateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+InteractState:EnterState()
+<>c__DisplayClass47_0:<StartInteract>b__0()
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Started Vanilla Id:100
+StoryBotDialogueBranch:Activate(ModelBrainState)
+<>c__DisplayClass19_1:<TalkButtonClicked>b__2()
+Fungus.MenuDialog:ActivateOption(MenuOption)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Changed game state to InteractState to StoryState(Empty)
+GameStateMachine:ChangeState(GameState)
+GameScript:StartEquipment()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from NewInteractBrainState to EmptyBrainState!
+StateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameStateWithLive2D`1:ExitState()
+InteractState:ExitState()
+GameStateMachine:ChangeState(GameState)
+GameScript:StartEquipment()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from Room Character View (Fungus.View) to Room Character View Equipment (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:MoveToView(Camera, View, Single, Action, PanType)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+StateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.CameraManager:MoveToView(Camera, View, Single, Action, PanType)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 248 (240), X11 KeySym 0x0 ((null)).
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 248 (240), X11 KeySym 0x0 ((null)).
+Changed game state to StoryState(Empty) to GameScript+EquipmentState
+GameStateMachine:ChangeState(GameState)
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to EquipmentBrainState!
+StateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+EquipmentState:EnterState()
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ArgumentException: JSON parse error: Invalid value.
+  at UnityEngine.JsonUtility.FromJson[T] (System.String json) [0x00000] in <00000000000000000000000000000000>:0 
+  at Equipment.<Prepare>b__8_17 (MyFileBrowserSingleton+UploadResult t) [0x00000] in <00000000000000000000000000000000>:0 
+  at SimpleFileBrowser.FileBrowser.OnSubmitButtonClicked () [0x00000] in <00000000000000000000000000000000>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[T] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.ExecuteEvents+EventFunction`1[T1] functor) [0x00000] in <00000000000000000000000000000000>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ReleaseMouse (UnityEngine.EventSystems.PointerEventData pointerEvent, UnityEngine.GameObject currentOverGo) [0x00000] in <00000000000000000000000000000000>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMouseEvent (System.Int32 id) [0x00000] in <00000000000000000000000000000000>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <00000000000000000000000000000000>:0 
+Equipment:<Prepare>b__8_17(UploadResult)
+SimpleFileBrowser.FileBrowser:OnSubmitButtonClicked()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from EquipmentBrainState to EmptyBrainState!
+StateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameScript:EndInteracting()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Changed game state to GameScript+EquipmentState to StoryState(Empty)
+GameStateMachine:ChangeState(GameState)
+GameScript:EndInteracting()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from Room Character View Equipment (Fungus.View) to Room View (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:MoveToView(Camera, View, Single, Action, PanType)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+StateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.CameraManager:MoveToView(Camera, View, Single, Action, PanType)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Changed game state to StoryState(Empty) to GameScript+RoomState
+GameStateMachine:ChangeState(GameState)
+GameScript:ChangeToRoomState()
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to RoomBrainState!
+StateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+RoomState:EnterState()
+GameScript:ChangeToRoomState()
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to GameScript+RoomState to StoryState(Message "StartPC")
+GameStateMachine:ChangeState(GameState)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from RoomBrainState to EmptyBrainState!
+StateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameStateWithLive2D`1:ExitState()
+GameStateMachine:ChangeState(GameState)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from Room View (Fungus.View) to View 1 (ViewWithSpriteRenderer)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.Flowchart:ExecuteBlock(Block, Int32, Action)
+Fungus.Flowchart:SendFungusMessage(String)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from View 1 (ViewWithSpriteRenderer) to PC View (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Fungus.FadeToView:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to StoryState(Message "StartPC") to GameScript+PcState
+GameStateMachine:ChangeState(GameState)
+StartPc:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to GameScript+PcState to StoryState(Empty)
+GameStateMachine:ChangeState(GameState)
+GameScript:StartEquipment()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from PC View (Fungus.View) to Room Character View Equipment (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+GameUtilities:FadeToView(View, Action, Single, Boolean, Nullable`1)
+GameUtilities:FadeOrMoveToView(View, Action, Single)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+StateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.<>c__DisplayClass29_0:<FadeToView>b__0()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to StoryState(Empty) to GameScript+EquipmentState
+GameStateMachine:ChangeState(GameState)
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to EquipmentBrainState!
+StateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+EquipmentState:EnterState()
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from EquipmentBrainState to EmptyBrainState!
+StateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameScript:EndInteracting()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Changed game state to GameScript+EquipmentState to StoryState(Empty)
+GameStateMachine:ChangeState(GameState)
+GameScript:EndInteracting()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from Room Character View Equipment (Fungus.View) to Room View (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:MoveToView(Camera, View, Single, Action, PanType)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+StateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.CameraManager:MoveToView(Camera, View, Single, Action, PanType)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Changed game state to StoryState(Empty) to GameScript+RoomState
+GameStateMachine:ChangeState(GameState)
+GameScript:ChangeToRoomState()
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to RoomBrainState!
+StateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+RoomState:EnterState()
+GameScript:ChangeToRoomState()
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to GameScript+RoomState to StoryState(Empty)
+GameStateMachine:ChangeState(GameState)
+GameScript:StartEquipment()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from RoomBrainState to EmptyBrainState!
+StateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameStateWithLive2D`1:ExitState()
+GameStateMachine:ChangeState(GameState)
+GameScript:StartEquipment()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from Room View (Fungus.View) to Room Character View Equipment (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:MoveToView(Camera, View, Single, Action, PanType)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+StateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.CameraManager:MoveToView(Camera, View, Single, Action, PanType)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Changed game state to StoryState(Empty) to GameScript+EquipmentState
+GameStateMachine:ChangeState(GameState)
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to EquipmentBrainState!
+StateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+EquipmentState:EnterState()
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from EquipmentBrainState to EmptyBrainState!
+StateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameScript:EndInteracting()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Changed game state to GameScript+EquipmentState to StoryState(Empty)
+GameStateMachine:ChangeState(GameState)
+GameScript:EndInteracting()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from Room Character View Equipment (Fungus.View) to Room View (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:MoveToView(Camera, View, Single, Action, PanType)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+StateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.CameraManager:MoveToView(Camera, View, Single, Action, PanType)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Changed game state to StoryState(Empty) to GameScript+RoomState
+GameStateMachine:ChangeState(GameState)
+GameScript:ChangeToRoomState()
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to RoomBrainState!
+StateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+RoomState:EnterState()
+GameScript:ChangeToRoomState()
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to GameScript+RoomState to GameScript+RoomState
+GameStateMachine:ChangeState(GameState)
+GameScript:ChangeToRoomState()
+<>c__DisplayClass7_0:<Apply>b__0()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from RoomBrainState to EmptyBrainState!
+StateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameStateWithLive2D`1:ExitState()
+GameStateMachine:ChangeState(GameState)
+GameScript:ChangeToRoomState()
+<>c__DisplayClass7_0:<Apply>b__0()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from EmptyBrainState to RoomBrainState!
+StateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+RoomState:EnterState()
+GameScript:ChangeToRoomState()
+<>c__DisplayClass7_0:<Apply>b__0()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Changed game state to GameScript+RoomState to StoryState(Message "StartPC")
+GameStateMachine:ChangeState(GameState)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from RoomBrainState to EmptyBrainState!
+StateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameStateWithLive2D`1:ExitState()
+GameStateMachine:ChangeState(GameState)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from Room View (Fungus.View) to View 1 (ViewWithSpriteRenderer)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.Flowchart:ExecuteBlock(Block, Int32, Action)
+Fungus.Flowchart:SendFungusMessage(String)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from View 1 (ViewWithSpriteRenderer) to PC View (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Fungus.FadeToView:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to StoryState(Message "StartPC") to GameScript+PcState
+GameStateMachine:ChangeState(GameState)
+StartPc:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 248 (240), X11 KeySym 0x0 ((null)).
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 248 (240), X11 KeySym 0x0 ((null)).
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 248 (240), X11 KeySym 0x0 ((null)).
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 248 (240), X11 KeySym 0x0 ((null)).
+Changed game state to GameScript+PcState to StoryState(Block "Stream Missionary")
+GameStateMachine:ChangeState(GameState)
+<>c__DisplayClass7_0:<Apply>b__0()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from PC View (Fungus.View) to View 1 (ViewWithSpriteRenderer)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 1 (ViewWithSpriteRenderer) to Missionary View (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Fungus.FadeToView:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Live2DFuckController+NormalState
+StateMachineWithOwner`1:ChangeState(StateWithOwner`1)
+Live2DFuckController:AfterResetEverything()
+Live2DController:ResetEverything()
+FrickScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.<>c__DisplayClass29_0:<FadeToView>b__0()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to StoryState(Block "Stream Missionary") to NewFrickState
+GameStateMachine:ChangeState(GameState)
+FrickScene:StartNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:EndViewSwitching()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from EmptyBrainState to GenericFuckBrainState!
+StateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+NewFrickState:EnterState()
+FrickScene:StartNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:EndViewSwitching()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 248 (240), X11 KeySym 0x0 ((null)).
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 248 (240), X11 KeySym 0x0 ((null)).
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 248 (240), X11 KeySym 0x0 ((null)).
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 248 (240), X11 KeySym 0x0 ((null)).
+Live2DFuckController+CumImminentState
+StateMachineWithOwner`1:ChangeState(StateWithOwner`1)
+NormalState:FixedUpdateState()
+
+16.19\20 0.8095002%
+GameVariables:ExtractCumFromBalls()
+CumImminentState:FixedUpdateState()
+
+CUM: 5.623045ml
+GameVariables:ExtractCumFromBalls()
+CumImminentState:FixedUpdateState()
+
+Live2DFuckController+CumInsideState
+StateMachineWithOwner`1:ChangeState(StateWithOwner`1)
+CumImminentState:FixedUpdateState()
+
+Live2DFuckController+NormalState
+StateMachineWithOwner`1:ChangeState(StateWithOwner`1)
+<Logic>d__7:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 248 (240), X11 KeySym 0x0 ((null)).
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 248 (240), X11 KeySym 0x0 ((null)).
+Live2DFuckController+CumImminentState
+StateMachineWithOwner`1:ChangeState(StateWithOwner`1)
+NormalState:FixedUpdateState()
+
+10.76579\20 0.5382893%
+GameVariables:ExtractCumFromBalls()
+CumImminentState:FixedUpdateState()
+
+CUM: 5.990844ml
+GameVariables:ExtractCumFromBalls()
+CumImminentState:FixedUpdateState()
+
+Live2DFuckController+CumInsideState
+StateMachineWithOwner`1:ChangeState(StateWithOwner`1)
+CumImminentState:FixedUpdateState()
+
+Live2DFuckController+NormalState
+StateMachineWithOwner`1:ChangeState(StateWithOwner`1)
+<Logic>d__7:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Live2DFuckController+CumImminentState
+StateMachineWithOwner`1:ChangeState(StateWithOwner`1)
+NormalState:FixedUpdateState()
+
+4.894927\20 0.2447463%
+GameVariables:ExtractCumFromBalls()
+CumImminentState:FixedUpdateState()
+
+CUM: 6.015306ml
+GameVariables:ExtractCumFromBalls()
+CumImminentState:FixedUpdateState()
+
+Live2DFuckController+CumInsideState
+StateMachineWithOwner`1:ChangeState(StateWithOwner`1)
+CumImminentState:FixedUpdateState()
+
+Live2DFuckController+NormalState
+StateMachineWithOwner`1:ChangeState(StateWithOwner`1)
+<Logic>d__7:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 248 (240), X11 KeySym 0x0 ((null)).
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 248 (240), X11 KeySym 0x0 ((null)).
+ModelBrain: Switching from GenericFuckBrainState to EmptyBrainState!
+StateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameScript:EndFricking()
+<>c__DisplayClass7_0:<Apply>b__0()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Changed game state to NewFrickState to StoryState(Block "End Frick")
+GameStateMachine:ChangeState(GameState)
+GameScript:EndFricking()
+<>c__DisplayClass7_0:<Apply>b__0()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from Missionary View (Fungus.View) to View 1 (ViewWithSpriteRenderer)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 1 (ViewWithSpriteRenderer) to Room View (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Fungus.FadeToView:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+StateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.<>c__DisplayClass29_0:<FadeToView>b__0()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to StoryState(Block "End Frick") to GameScript+RoomState
+GameStateMachine:ChangeState(GameState)
+GameScript:ChangeToRoomState()
+BackToRoom:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to RoomBrainState!
+StateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+RoomState:EnterState()
+GameScript:ChangeToRoomState()
+BackToRoom:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to GameScript+RoomState to StoryState(Message "StartPC")
+GameStateMachine:ChangeState(GameState)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from RoomBrainState to EmptyBrainState!
+StateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameStateWithLive2D`1:ExitState()
+GameStateMachine:ChangeState(GameState)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from Room View (Fungus.View) to View 1 (ViewWithSpriteRenderer)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.Flowchart:ExecuteBlock(Block, Int32, Action)
+Fungus.Flowchart:SendFungusMessage(String)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from View 1 (ViewWithSpriteRenderer) to PC View (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Fungus.FadeToView:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to StoryState(Message "StartPC") to GameScript+PcState
+GameStateMachine:ChangeState(GameState)
+StartPc:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to GameScript+PcState to StoryState(Empty)
+GameStateMachine:ChangeState(GameState)
+GameScript:StartEquipment()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from PC View (Fungus.View) to Room Character View Equipment (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+GameUtilities:FadeToView(View, Action, Single, Boolean, Nullable`1)
+GameUtilities:FadeOrMoveToView(View, Action, Single)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+StateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.<>c__DisplayClass29_0:<FadeToView>b__0()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to StoryState(Empty) to GameScript+EquipmentState
+GameStateMachine:ChangeState(GameState)
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to EquipmentBrainState!
+StateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+EquipmentState:EnterState()
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from EquipmentBrainState to EmptyBrainState!
+StateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameScript:EndInteracting()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Changed game state to GameScript+EquipmentState to StoryState(Empty)
+GameStateMachine:ChangeState(GameState)
+GameScript:EndInteracting()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from Room Character View Equipment (Fungus.View) to Room View (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:MoveToView(Camera, View, Single, Action, PanType)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+StateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.CameraManager:MoveToView(Camera, View, Single, Action, PanType)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Changed game state to StoryState(Empty) to GameScript+RoomState
+GameStateMachine:ChangeState(GameState)
+GameScript:ChangeToRoomState()
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to RoomBrainState!
+StateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+RoomState:EnterState()
+GameScript:ChangeToRoomState()
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to GameScript+RoomState to StoryState(Empty)
+GameStateMachine:ChangeState(GameState)
+GameScript:StartInteract(Action`1)
+GameScript:Update()
+
+ModelBrain: Switching from RoomBrainState to EmptyBrainState!
+StateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameStateWithLive2D`1:ExitState()
+GameStateMachine:ChangeState(GameState)
+GameScript:StartInteract(Action`1)
+GameScript:Update()
+
+Switching view from Room View (Fungus.View) to Room Character View (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:MoveToView(Camera, View, Single, Action, PanType)
+GameScript:Update()
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+StateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.CameraManager:MoveToView(Camera, View, Single, Action, PanType)
+GameScript:Update()
+
+Changed game state to StoryState(Empty) to InteractState
+GameStateMachine:ChangeState(GameState)
+<>c__DisplayClass47_0:<StartInteract>b__0()
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to NewInteractBrainState!
+StateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+InteractState:EnterState()
+<>c__DisplayClass47_0:<StartInteract>b__0()
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Started Vanilla Id:200
+StoryBotDialogueBranch:Activate(ModelBrainState)
+<>c__DisplayClass19_1:<TalkButtonClicked>b__2()
+Fungus.MenuDialog:ActivateOption(MenuOption)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Started Vanilla Id:400
+StoryBotDialogueBranch:Activate(ModelBrainState)
+<>c__DisplayClass19_1:<TalkButtonClicked>b__2()
+Fungus.MenuDialog:ActivateOption(MenuOption)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Started Vanilla Id:1001
+StoryBotDialogueBranch:Activate(ModelBrainState)
+<>c__DisplayClass19_1:<TalkButtonClicked>b__2()
+Fungus.MenuDialog:ActivateOption(MenuOption)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Started Vanilla Id:1004
+StoryBotDialogueBranch:Activate(ModelBrainState)
+<>c__DisplayClass19_1:<TalkButtonClicked>b__2()
+Fungus.MenuDialog:ActivateOption(MenuOption)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Started Vanilla Id:1000
+StoryBotDialogueBranch:Activate(ModelBrainState)
+<>c__DisplayClass19_1:<TalkButtonClicked>b__2()
+Fungus.MenuDialog:ActivateOption(MenuOption)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Changed game state to InteractState to StoryState(Empty)
+GameStateMachine:ChangeState(GameState)
+GameScript:StartEquipment()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from NewInteractBrainState to EmptyBrainState!
+StateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameStateWithLive2D`1:ExitState()
+InteractState:ExitState()
+GameStateMachine:ChangeState(GameState)
+GameScript:StartEquipment()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from Room Character View (Fungus.View) to Room Character View Equipment (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:MoveToView(Camera, View, Single, Action, PanType)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+StateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.CameraManager:MoveToView(Camera, View, Single, Action, PanType)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Changed game state to StoryState(Empty) to GameScript+EquipmentState
+GameStateMachine:ChangeState(GameState)
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to EquipmentBrainState!
+StateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+EquipmentState:EnterState()
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from EquipmentBrainState to EmptyBrainState!
+StateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameScript:EndInteracting()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Changed game state to GameScript+EquipmentState to StoryState(Empty)
+GameStateMachine:ChangeState(GameState)
+GameScript:EndInteracting()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from Room Character View Equipment (Fungus.View) to Room View (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:MoveToView(Camera, View, Single, Action, PanType)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+StateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.CameraManager:MoveToView(Camera, View, Single, Action, PanType)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Changed game state to StoryState(Empty) to GameScript+RoomState
+GameStateMachine:ChangeState(GameState)
+GameScript:ChangeToRoomState()
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to RoomBrainState!
+StateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+RoomState:EnterState()
+GameScript:ChangeToRoomState()
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to GameScript+RoomState to StoryState(Empty)
+GameStateMachine:ChangeState(GameState)
+GameScript:StartInteract(Action`1)
+GameScript:Update()
+
+ModelBrain: Switching from RoomBrainState to EmptyBrainState!
+StateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameStateWithLive2D`1:ExitState()
+GameStateMachine:ChangeState(GameState)
+GameScript:StartInteract(Action`1)
+GameScript:Update()
+
+Switching view from Room View (Fungus.View) to Room Character View (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:MoveToView(Camera, View, Single, Action, PanType)
+GameScript:Update()
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+StateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.CameraManager:MoveToView(Camera, View, Single, Action, PanType)
+GameScript:Update()
+
+Changed game state to StoryState(Empty) to InteractState
+GameStateMachine:ChangeState(GameState)
+<>c__DisplayClass47_0:<StartInteract>b__0()
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to NewInteractBrainState!
+StateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+InteractState:EnterState()
+<>c__DisplayClass47_0:<StartInteract>b__0()
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Started Vanilla Id:1003
+StoryBotDialogueBranch:Activate(ModelBrainState)
+<>c__DisplayClass19_1:<TalkButtonClicked>b__2()
+Fungus.MenuDialog:ActivateOption(MenuOption)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Changed game state to InteractState to StoryState(Empty)
+GameStateMachine:ChangeState(GameState)
+GameScript:StartEquipment()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from NewInteractBrainState to EmptyBrainState!
+StateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameStateWithLive2D`1:ExitState()
+InteractState:ExitState()
+GameStateMachine:ChangeState(GameState)
+GameScript:StartEquipment()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from Room Character View (Fungus.View) to Room Character View Equipment (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:MoveToView(Camera, View, Single, Action, PanType)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+StateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.CameraManager:MoveToView(Camera, View, Single, Action, PanType)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Changed game state to StoryState(Empty) to GameScript+EquipmentState
+GameStateMachine:ChangeState(GameState)
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to EquipmentBrainState!
+StateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+EquipmentState:EnterState()
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from EquipmentBrainState to EmptyBrainState!
+StateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameScript:EndInteracting()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Changed game state to GameScript+EquipmentState to StoryState(Empty)
+GameStateMachine:ChangeState(GameState)
+GameScript:EndInteracting()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from Room Character View Equipment (Fungus.View) to Room View (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:MoveToView(Camera, View, Single, Action, PanType)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+StateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.CameraManager:MoveToView(Camera, View, Single, Action, PanType)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Changed game state to StoryState(Empty) to GameScript+RoomState
+GameStateMachine:ChangeState(GameState)
+GameScript:ChangeToRoomState()
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to RoomBrainState!
+StateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+RoomState:EnterState()
+GameScript:ChangeToRoomState()
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to GameScript+RoomState to StoryState(Empty)
+GameStateMachine:ChangeState(GameState)
+GameScript:StartInteract(Action`1)
+GameScript:Update()
+
+ModelBrain: Switching from RoomBrainState to EmptyBrainState!
+StateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameStateWithLive2D`1:ExitState()
+GameStateMachine:ChangeState(GameState)
+GameScript:StartInteract(Action`1)
+GameScript:Update()
+
+Switching view from Room View (Fungus.View) to Room Character View (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:MoveToView(Camera, View, Single, Action, PanType)
+GameScript:Update()
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+StateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.CameraManager:MoveToView(Camera, View, Single, Action, PanType)
+GameScript:Update()
+
+Changed game state to StoryState(Empty) to InteractState
+GameStateMachine:ChangeState(GameState)
+<>c__DisplayClass47_0:<StartInteract>b__0()
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to NewInteractBrainState!
+StateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+InteractState:EnterState()
+<>c__DisplayClass47_0:<StartInteract>b__0()
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Started Vanilla Id:0
+StoryBotDialogueBranch:Activate(ModelBrainState)
+Fungus.MenuDialog:ActivateOption(MenuOption)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Started Vanilla Id:8
+StoryBotDialogueBranch:Activate(ModelBrainState)
+Fungus.MenuDialog:ActivateOption(MenuOption)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Started Vanilla Id:2
+StoryBotDialogueBranch:Activate(ModelBrainState)
+Fungus.MenuDialog:ActivateOption(MenuOption)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from NewInteractBrainState to EmptyBrainState!
+StateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameScript:EndInteracting()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Changed game state to InteractState to StoryState(Empty)
+GameStateMachine:ChangeState(GameState)
+GameScript:EndInteracting()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from Room Character View (Fungus.View) to Room View (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:MoveToView(Camera, View, Single, Action, PanType)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+StateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.CameraManager:MoveToView(Camera, View, Single, Action, PanType)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Changed game state to StoryState(Empty) to GameScript+RoomState
+GameStateMachine:ChangeState(GameState)
+GameScript:ChangeToRoomState()
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to RoomBrainState!
+StateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+RoomState:EnterState()
+GameScript:ChangeToRoomState()
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to GameScript+RoomState to StoryState(Message "StartPC")
+GameStateMachine:ChangeState(GameState)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from RoomBrainState to EmptyBrainState!
+StateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameStateWithLive2D`1:ExitState()
+GameStateMachine:ChangeState(GameState)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from Room View (Fungus.View) to View 1 (ViewWithSpriteRenderer)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.Flowchart:ExecuteBlock(Block, Int32, Action)
+Fungus.Flowchart:SendFungusMessage(String)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from View 1 (ViewWithSpriteRenderer) to PC View (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Fungus.FadeToView:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to StoryState(Message "StartPC") to GameScript+PcState
+GameStateMachine:ChangeState(GameState)
+StartPc:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to GameScript+PcState to StoryState(Empty)
+GameStateMachine:ChangeState(GameState)
+GameScript:StartEquipment()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from PC View (Fungus.View) to Room Character View Equipment (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+GameUtilities:FadeToView(View, Action, Single, Boolean, Nullable`1)
+GameUtilities:FadeOrMoveToView(View, Action, Single)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+StateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.<>c__DisplayClass29_0:<FadeToView>b__0()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to StoryState(Empty) to GameScript+EquipmentState
+GameStateMachine:ChangeState(GameState)
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to EquipmentBrainState!
+StateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+EquipmentState:EnterState()
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from EquipmentBrainState to EmptyBrainState!
+StateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameScript:EndInteracting()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Changed game state to GameScript+EquipmentState to StoryState(Empty)
+GameStateMachine:ChangeState(GameState)
+GameScript:EndInteracting()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from Room Character View Equipment (Fungus.View) to Room View (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:MoveToView(Camera, View, Single, Action, PanType)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+StateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.CameraManager:MoveToView(Camera, View, Single, Action, PanType)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Changed game state to StoryState(Empty) to GameScript+RoomState
+GameStateMachine:ChangeState(GameState)
+GameScript:ChangeToRoomState()
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to RoomBrainState!
+StateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+RoomState:EnterState()
+GameScript:ChangeToRoomState()
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+requesting resize 1920 x 1200
+Using native desktop resolution 1920 x 1200
+requesting fullscreen 1920 x 1200 at 0/1 Hz
+Desktop is 1920 x 1200 @ 60 Hz
+requesting resize 1280 x 720
+resizing window to 1280 x 720
+Desktop is 1920 x 1200 @ 60 Hz
+Changed game state to GameScript+RoomState to StoryState(Block "Outside/OutsideStart")
+GameStateMachine:ChangeState(GameState)
+<>c__DisplayClass7_0:<Apply>b__0()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from RoomBrainState to EmptyBrainState!
+StateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameStateWithLive2D`1:ExitState()
+GameStateMachine:ChangeState(GameState)
+<>c__DisplayClass7_0:<Apply>b__0()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from Room View (Fungus.View) to View 1 (ViewWithSpriteRenderer)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.Flowchart:ExecuteBlock(Block, Int32, Action)
+<>c__DisplayClass7_0:<Apply>b__0()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from View 1 (ViewWithSpriteRenderer) to View 1 zoom left (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:MoveToView(Camera, View, Single, Action, PanType)
+Assets.Game.Scripts.FungusCommands.View.MoveToSubview:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 1 zoom left (Fungus.View) to View 2 (ViewWithSpriteRenderer)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 2 (ViewWithSpriteRenderer) to View 1 (ViewWithSpriteRenderer)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.Flowchart:ExecuteBlock(Block, Int32, Action)
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+stonks flag already exists! Refreshing timeAdded.
+GameVariables:AddFlag(String)
+ModifyFlag:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 1 (ViewWithSpriteRenderer) to View 2 (ViewWithSpriteRenderer)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 2 (ViewWithSpriteRenderer) to View 1 (ViewWithSpriteRenderer)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 1 (ViewWithSpriteRenderer) to View 2 (ViewWithSpriteRenderer)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.Flowchart:ExecuteBlock(Block, Int32, Action)
+Fungus.MenuDialog:ActivateOption(MenuOption)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from View 2 (ViewWithSpriteRenderer) to View 1 (ViewWithSpriteRenderer)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 1 (ViewWithSpriteRenderer) to View 2 (ViewWithSpriteRenderer)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 2 (ViewWithSpriteRenderer) to Room View (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Fungus.FadeToView:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.Flowchart:ExecuteBlock(Block, Int32, Action)
+Fungus.MenuDialog:ActivateOption(MenuOption)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+StateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.<>c__DisplayClass29_0:<FadeToView>b__0()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Saved autosave to slot 1 previus autosave happened 00 hrs, 13 mins, 14 secs ago
+SaveSingleton:TryMakeAutoSave()
+AutoSave:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to StoryState(Block "Outside/OutsideStart") to GameScript+RoomState
+GameStateMachine:ChangeState(GameState)
+GameScript:ChangeToRoomState()
+BackToRoom:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to RoomBrainState!
+StateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+RoomState:EnterState()
+GameScript:ChangeToRoomState()
+BackToRoom:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to GameScript+RoomState to StoryState(Block "Go to sleep")
+GameStateMachine:ChangeState(GameState)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from RoomBrainState to EmptyBrainState!
+StateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameStateWithLive2D`1:ExitState()
+GameStateMachine:ChangeState(GameState)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from Room View (Fungus.View) to Sleep View (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Fungus.FadeToView:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.Flowchart:ExecuteBlock(Block, Int32, Action)
+Fungus.MenuDialog:ActivateOption(MenuOption)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+StateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.<>c__DisplayClass29_0:<FadeToView>b__0()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from Sleep View (Fungus.View) to View 1 (ViewWithSpriteRenderer)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to EmptyBrainState!
+StateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+Live2DHolder:Restore(Live2DPrefabHolder)
+RoomScene:EndOldView(ViewSceneTransitionInfo)
+Fungus.CameraManager:EndViewSwitching()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 1 (ViewWithSpriteRenderer) to Sleep View (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Fungus.FadeToView:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+StateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.<>c__DisplayClass29_0:<FadeToView>b__0()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from Sleep View (Fungus.View) to Room View (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Fungus.FadeToView:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.Call:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to EmptyBrainState!
+StateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+Live2DHolder:MovePrefabInto(Live2DPrefabHolder)
+RoomScene:SetupInteractionCharacter()
+RoomScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.<>c__DisplayClass29_0:<FadeToView>b__0()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+StateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.<>c__DisplayClass29_0:<FadeToView>b__0()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to StoryState(Block "Go to sleep") to GameScript+RoomState
+GameStateMachine:ChangeState(GameState)
+GameScript:ChangeToRoomState()
+BackToRoom:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to RoomBrainState!
+StateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+RoomState:EnterState()
+GameScript:ChangeToRoomState()
+BackToRoom:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to GameScript+RoomState to StoryState(Empty)
+GameStateMachine:ChangeState(GameState)
+GameScript:StartInteract(Action`1)
+GameScript:Update()
+
+ModelBrain: Switching from RoomBrainState to EmptyBrainState!
+StateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameStateWithLive2D`1:ExitState()
+GameStateMachine:ChangeState(GameState)
+GameScript:StartInteract(Action`1)
+GameScript:Update()
+
+Switching view from Room View (Fungus.View) to Room Character View (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:MoveToView(Camera, View, Single, Action, PanType)
+GameScript:Update()
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+StateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.CameraManager:MoveToView(Camera, View, Single, Action, PanType)
+GameScript:Update()
+
+Changed game state to StoryState(Empty) to InteractState
+GameStateMachine:ChangeState(GameState)
+<>c__DisplayClass47_0:<StartInteract>b__0()
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to NewInteractBrainState!
+StateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+InteractState:EnterState()
+<>c__DisplayClass47_0:<StartInteract>b__0()
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Started Vanilla Id:0
+StoryBotDialogueBranch:Activate(ModelBrainState)
+Fungus.MenuDialog:ActivateOption(MenuOption)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Changed game state to InteractState to StoryState(Block "PrepareFricking")
+GameStateMachine:ChangeState(GameState)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from NewInteractBrainState to EmptyBrainState!
+StateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameStateWithLive2D`1:ExitState()
+InteractState:ExitState()
+GameStateMachine:ChangeState(GameState)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from Room Character View (Fungus.View) to View 1 (ViewWithSpriteRenderer)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 1 (ViewWithSpriteRenderer) to Missionary View (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Fungus.FadeToView:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Live2DFuckController+NormalState
+StateMachineWithOwner`1:ChangeState(StateWithOwner`1)
+Live2DFuckController:AfterResetEverything()
+Live2DController:ResetEverything()
+FrickScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.<>c__DisplayClass29_0:<FadeToView>b__0()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to StoryState(Block "PrepareFricking") to NewFrickState
+GameStateMachine:ChangeState(GameState)
+FrickScene:StartNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:EndViewSwitching()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from EmptyBrainState to GenericFuckBrainState!
+StateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+NewFrickState:EnterState()
+FrickScene:StartNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:EndViewSwitching()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Cocktracts event planned!
+CocktractManager:UpdatePartners()
+CocktractManager:EndOfDay()
+GameVariables:MinutePassed(StaminaSyncType, Boolean)
+NewFrickState:FixedUpdateState()
+GameScript:FixedUpdate()
+
+Live2DFuckController+CumImminentState
+StateMachineWithOwner`1:ChangeState(StateWithOwner`1)
+NormalState:FixedUpdateState()
+
+6.597938\20 0.3298969%
+GameVariables:ExtractCumFromBalls()
+CumImminentState:FixedUpdateState()
+
+CUM: 5.19708ml
+GameVariables:ExtractCumFromBalls()
+CumImminentState:FixedUpdateState()
+
+Live2DFuckController+CumInsideState
+StateMachineWithOwner`1:ChangeState(StateWithOwner`1)
+CumImminentState:FixedUpdateState()
+
+Live2DFuckController+NormalState
+StateMachineWithOwner`1:ChangeState(StateWithOwner`1)
+<Logic>d__7:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Live2DFuckController+CumImminentState
+StateMachineWithOwner`1:ChangeState(StateWithOwner`1)
+NormalState:FixedUpdateState()
+
+1.29031\20 0.06451552%
+GameVariables:ExtractCumFromBalls()
+CumImminentState:FixedUpdateState()
+
+CUM: 5.440963ml
+GameVariables:ExtractCumFromBalls()
+CumImminentState:FixedUpdateState()
+
+Live2DFuckController+CumInsideState
+StateMachineWithOwner`1:ChangeState(StateWithOwner`1)
+CumImminentState:FixedUpdateState()
+
+Live2DFuckController+NormalState
+StateMachineWithOwner`1:ChangeState(StateWithOwner`1)
+<Logic>d__7:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from GenericFuckBrainState to EmptyBrainState!
+StateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameScript:EndFricking()
+<>c__DisplayClass7_0:<Apply>b__0()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Changed game state to NewFrickState to StoryState(Block "End Frick")
+GameStateMachine:ChangeState(GameState)
+GameScript:EndFricking()
+<>c__DisplayClass7_0:<Apply>b__0()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from Missionary View (Fungus.View) to View 1 (ViewWithSpriteRenderer)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 1 (ViewWithSpriteRenderer) to Room View (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Fungus.FadeToView:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+StateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.<>c__DisplayClass29_0:<FadeToView>b__0()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to StoryState(Block "End Frick") to GameScript+RoomState
+GameStateMachine:ChangeState(GameState)
+GameScript:ChangeToRoomState()
+BackToRoom:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to RoomBrainState!
+StateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+RoomState:EnterState()
+GameScript:ChangeToRoomState()
+BackToRoom:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to GameScript+RoomState to StoryState(Empty)
+GameStateMachine:ChangeState(GameState)
+GameScript:StartEquipment()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from RoomBrainState to EmptyBrainState!
+StateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameStateWithLive2D`1:ExitState()
+GameStateMachine:ChangeState(GameState)
+GameScript:StartEquipment()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from Room View (Fungus.View) to Room Character View Equipment (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:MoveToView(Camera, View, Single, Action, PanType)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+StateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.CameraManager:MoveToView(Camera, View, Single, Action, PanType)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Changed game state to StoryState(Empty) to GameScript+EquipmentState
+GameStateMachine:ChangeState(GameState)
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to EquipmentBrainState!
+StateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+EquipmentState:EnterState()
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from EquipmentBrainState to EmptyBrainState!
+StateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameScript:EndInteracting()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Changed game state to GameScript+EquipmentState to StoryState(Empty)
+GameStateMachine:ChangeState(GameState)
+GameScript:EndInteracting()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from Room Character View Equipment (Fungus.View) to Room View (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:MoveToView(Camera, View, Single, Action, PanType)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+StateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.CameraManager:MoveToView(Camera, View, Single, Action, PanType)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Changed game state to StoryState(Empty) to GameScript+RoomState
+GameStateMachine:ChangeState(GameState)
+GameScript:ChangeToRoomState()
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to RoomBrainState!
+StateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+RoomState:EnterState()
+GameScript:ChangeToRoomState()
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to GameScript+RoomState to StoryState(Message "StartPC")
+GameStateMachine:ChangeState(GameState)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from RoomBrainState to EmptyBrainState!
+StateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameStateWithLive2D`1:ExitState()
+GameStateMachine:ChangeState(GameState)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from Room View (Fungus.View) to View 1 (ViewWithSpriteRenderer)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.Flowchart:ExecuteBlock(Block, Int32, Action)
+Fungus.Flowchart:SendFungusMessage(String)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from View 1 (ViewWithSpriteRenderer) to PC View (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Fungus.FadeToView:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to StoryState(Message "StartPC") to GameScript+PcState
+GameStateMachine:ChangeState(GameState)
+StartPc:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Day 3 00:57:{"data":"8","eventEnum":9}
+EventHolder:Activate()
+EmailBase:ReadEmail()
+EmailWebsite:<Open>b__8_2(NewEmail, Int32)
+ItemListAdapterBase`1:Focus(Int32)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Changed game state to GameScript+PcState to StoryState(Block "Go Home")
+GameStateMachine:ChangeState(GameState)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from PC View (Fungus.View) to Room View (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Fungus.FadeToView:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.Flowchart:ExecuteBlock(Block, Int32, Action)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+StateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.<>c__DisplayClass29_0:<FadeToView>b__0()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Saved autosave to slot 2 previus autosave happened 00 hrs, 05 mins, 38 secs ago
+SaveSingleton:TryMakeAutoSave()
+AutoSave:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to StoryState(Block "Go Home") to GameScript+RoomState
+GameStateMachine:ChangeState(GameState)
+GameScript:ChangeToRoomState()
+BackToRoom:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to RoomBrainState!
+StateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+RoomState:EnterState()
+GameScript:ChangeToRoomState()
+BackToRoom:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to GameScript+RoomState to StoryState(Empty)
+GameStateMachine:ChangeState(GameState)
+GameScript:ReturnToMainMenuPrompt()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from RoomBrainState to EmptyBrainState!
+StateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameStateWithLive2D`1:ExitState()
+GameStateMachine:ChangeState(GameState)
+GameScript:ReturnToMainMenuPrompt()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Changed game state to StoryState(Empty) to GameScript+RoomState
+GameStateMachine:ChangeState(GameState)
+GameScript:ChangeToRoomState()
+<>c__DisplayClass7_0:<Apply>b__0()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from EmptyBrainState to RoomBrainState!
+StateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+RoomState:EnterState()
+GameScript:ChangeToRoomState()
+<>c__DisplayClass7_0:<Apply>b__0()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Changed game state to GameScript+RoomState to StoryState(Block "Outside/OutsideStart")
+GameStateMachine:ChangeState(GameState)
+<>c__DisplayClass7_0:<Apply>b__0()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from RoomBrainState to EmptyBrainState!
+StateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameStateWithLive2D`1:ExitState()
+GameStateMachine:ChangeState(GameState)
+<>c__DisplayClass7_0:<Apply>b__0()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from Room View (Fungus.View) to View 1 (ViewWithSpriteRenderer)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.Flowchart:ExecuteBlock(Block, Int32, Action)
+<>c__DisplayClass7_0:<Apply>b__0()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from View 1 (ViewWithSpriteRenderer) to View 1 zoom left (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:MoveToView(Camera, View, Single, Action, PanType)
+Assets.Game.Scripts.FungusCommands.View.MoveToSubview:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 1 zoom left (Fungus.View) to View 2 (ViewWithSpriteRenderer)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 2 (ViewWithSpriteRenderer) to View 1 (ViewWithSpriteRenderer)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 1 (ViewWithSpriteRenderer) to View 2 (ViewWithSpriteRenderer)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 2 (ViewWithSpriteRenderer) to Room View (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Fungus.FadeToView:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.Flowchart:ExecuteBlock(Block, Int32, Action)
+Fungus.MenuDialog:ActivateOption(MenuOption)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+StateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.<>c__DisplayClass29_0:<FadeToView>b__0()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to StoryState(Block "Outside/OutsideStart") to GameScript+RoomState
+GameStateMachine:ChangeState(GameState)
+GameScript:ChangeToRoomState()
+BackToRoom:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to RoomBrainState!
+StateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+RoomState:EnterState()
+GameScript:ChangeToRoomState()
+BackToRoom:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to GameScript+RoomState to StoryState(Empty)
+GameStateMachine:ChangeState(GameState)
+GameScript:StartInteract(Action`1)
+GameScript:Update()
+
+ModelBrain: Switching from RoomBrainState to EmptyBrainState!
+StateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameStateWithLive2D`1:ExitState()
+GameStateMachine:ChangeState(GameState)
+GameScript:StartInteract(Action`1)
+GameScript:Update()
+
+Switching view from Room View (Fungus.View) to Room Character View (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:MoveToView(Camera, View, Single, Action, PanType)
+GameScript:Update()
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+StateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.CameraManager:MoveToView(Camera, View, Single, Action, PanType)
+GameScript:Update()
+
+Changed game state to StoryState(Empty) to InteractState
+GameStateMachine:ChangeState(GameState)
+<>c__DisplayClass47_0:<StartInteract>b__0()
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to NewInteractBrainState!
+StateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+InteractState:EnterState()
+<>c__DisplayClass47_0:<StartInteract>b__0()
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Started Vanilla Id:1
+StoryBotDialogueBranch:Activate(ModelBrainState)
+Fungus.MenuDialog:ActivateOption(MenuOption)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Started Vanilla Id:6
+StoryBotDialogueBranch:Activate(ModelBrainState)
+Fungus.MenuDialog:ActivateOption(MenuOption)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from NewInteractBrainState to EmptyBrainState!
+StateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameScript:EndInteracting()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Changed game state to InteractState to StoryState(Empty)
+GameStateMachine:ChangeState(GameState)
+GameScript:EndInteracting()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from Room Character View (Fungus.View) to Room View (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:MoveToView(Camera, View, Single, Action, PanType)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+StateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.CameraManager:MoveToView(Camera, View, Single, Action, PanType)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Changed game state to StoryState(Empty) to GameScript+RoomState
+GameStateMachine:ChangeState(GameState)
+GameScript:ChangeToRoomState()
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to RoomBrainState!
+StateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+RoomState:EnterState()
+GameScript:ChangeToRoomState()
+ViewSceneTransitionInfo:Finish()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to GameScript+RoomState to StoryState(Block "Go to sleep")
+GameStateMachine:ChangeState(GameState)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from RoomBrainState to EmptyBrainState!
+StateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameStateWithLive2D`1:ExitState()
+GameStateMachine:ChangeState(GameState)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from Room View (Fungus.View) to Sleep View (Fungus.View)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Fungus.FadeToView:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.Flowchart:ExecuteBlock(Block, Int32, Action)
+Fungus.MenuDialog:ActivateOption(MenuOption)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+StateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo)
+Fungus.CameraManager:SwitchView()
+Fungus.<>c__DisplayClass29_0:<FadeToView>b__0()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from Sleep View (Fungus.View) to View 1 (ViewWithSpriteRenderer)
+Fungus.CameraManager:PrepareNewView(View, Camera, Action)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, Action)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to EmptyBrainState!
+StateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+Live2DHolder:Restore(Live2DPrefabHolder)
+RoomScene:EndOldView(ViewSceneTransitionInfo)
+Fungus.CameraManager:EndViewSwitching()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 248 (240), X11 KeySym 0x0 ((null)).
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 248 (240), X11 KeySym 0x0 ((null)).
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 188412 requests (188411 known processed) with 0 events remaining.

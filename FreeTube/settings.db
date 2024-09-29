@@ -1,0 +1,14 @@
+{"_id":"allSettingsSectionsExpandedByDefault","value":false}
+{"_id":"baseTheme","value":"black"}
+{"_id":"bounds","value":{"x":12,"y":37,"width":1896,"height":1151,"maximized":false,"fullScreen":true}}
+{"_id":"defaultInvidiousInstance","value":"https://invidious.flokinet.to"}
+{"_id":"defaultQuality","value":"1080"}
+{"_id":"downloadBehavior","value":"download"}
+{"_id":"enableScreenshot","value":true}
+{"_id":"hideLiveChat","value":true}
+{"_id":"hideLiveStreams","value":false}
+{"_id":"mainColor","value":"DeepPurple"}
+{"_id":"screenshotAskPath","value":true}
+{"_id":"screenshotFolderPath","value":"/home/klein/Pictures"}
+{"_id":"useProxy","value":false}
+{"_id":"useSponsorBlock","value":false}

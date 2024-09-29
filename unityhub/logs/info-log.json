@@ -1,0 +1,9 @@
+{"timestamp":"2024-06-01T04:11:55.160Z","level":"info","moduleName":"App","pid":2968,"message":"Environment variables loaded successfully."}
+{"timestamp":"2024-06-01T04:11:55.160Z","level":"info","moduleName":"APMMain","pid":2968,"message":"Initializing APM Client"}
+{"timestamp":"2024-06-01T04:11:55.204Z","level":"info","moduleName":"App","pid":2968,"message":"Checking arguments for Windows custom URI scheme"}
+{"timestamp":"2024-06-01T04:11:55.204Z","level":"info","moduleName":"App","pid":2968,"message":"No custom URI argument found"}
+{"timestamp":"2024-06-01T04:11:55.221Z","level":"info","moduleName":"SystemInfo","pid":2968,"message":"12th Gen Intel(R) Core(TM) i7-1255U;;Linux (6.1.0-21-amd64) x64;"}
+{"timestamp":"2024-06-01T04:11:55.229Z","level":"info","moduleName":"SystemInfo","pid":2968,"message":"Hub version: 3.8.0"}
+{"timestamp":"2024-06-01T04:11:55.229Z","level":"info","moduleName":"SystemInfo","pid":2968,"message":"Hub path: /usr/bin/unityhub"}
+{"timestamp":"2024-06-01T04:11:55.245Z","level":"info","moduleName":"HubSettings","pid":2968,"message":"{ cloudEnvironment: 'production', servicesUrlInterval: 900000, hubConfigInterval: 3600000, releasesRefreshInterval: 3600000, recentProjectInterval: 60000, downloadClusterInterval: 1000, downloadEditorInterval: 1000, refreshTokenValidity: 2592000000, checkForUpdateInterval: 43200000, sendAnalyticsEventsInterval: 60000, maxSizeForAnalyticsQueue: 500, downloadRequestTimeout: 30000, servicesConfigBaseUrl: 'https://public-cdn.cloud.unity3d.com/config/', globalConfigFolder: '/usr/share/unity3d/config' }"}
+{"timestamp":"2024-06-01T04:11:55.248Z","level":"info","moduleName":"CloudConfig","pid":2968,"message":"Cloud Config endpoint: https://public-cdn.cloud.unity3d.com/config/production"}

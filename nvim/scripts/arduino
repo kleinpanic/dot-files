@@ -1,0 +1,45 @@
+#!/usr/bin/env bash
+
+compile()
+{
+    echo "[Compiling Sketch]"
+    echo "[Command]: arduino-cli compile -b $FQBN $SKETCH --no-color"
+    arduino-cli compile -b "$FQBN" "$SKETCH" --no-color
+}
+
+upload()
+{
+    echo "[Uploading]" 
+    echo "[Command]: arduino-cli upload -b $FQBN -p $PORT_ADDRESS $SKETCH --no-color"
+    arduino-cli upload -b "$FQBN" -p "$PORT_ADDRESS" "$SKETCH" --no-color
+}
+
+monitor()
+{
+    echo "[Command]: arduino-cli monitor -p $PORT_ADDRESS -c $BAUDRATE"
+    arduino-cli monitor -p "$PORT_ADDRESS" -c "$BAUDRATE"
+}
+
+compile_and_upload()
+{
+    [[ "$FQBN" == "null" ]] && echo "[Error]: Board not found" && exit 1
+    compile && upload && echo "[Success]"
+}
+
+INFO="$(arduino-cli board list --json)"
+FQBN="$(echo "$INFO" | jq -r .detected_ports[0].matching_boards[0].fqbn)"
+PORT_ADDRESS="$(echo "$INFO" | jq -r .detected_ports[0].port.address)"
+
+while getopts "imu:" opt
+do
+    case "$opt" in
+        u) 
+            SKETCH="$OPTARG"
+            compile && upload ;;
+        i) 
+            echo "$INFO" ;;
+        m) 
+            BAUDRATE="$2"
+            monitor ;;
+    esac
+done

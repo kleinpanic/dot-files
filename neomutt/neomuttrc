@@ -1,0 +1,120 @@
+source colors
+source aliases
+
+set folder = "~/.mail"
+# set folder = "imaps://kleinpanic93@cocaine.ninja@mail.cock.li:993"
+set mailcap_path = "~/.config/neomutt/mailcap"
+set smtp_url = "smtp://kleinpanic93@cocaine.ninja@mail.cock.li:587"
+set from = "kleinpanic93@cocaine.ninja"
+set real_name = "collin"
+
+set smtp_pass = "`pass emails/kleinpanic93@cocaine.ninja`"
+# set imap_pass = "`pass emails/kleinpanic93@cocaine.ninja`"
+
+set spool_file = "+INBOX"
+set record = "+Sent"
+set trash = "+Trash"
+set postponed = "+Drafts"
+mailboxes =INBOX =Sent =Trash =Drafts =Junk =Archive
+
+set sidebar_visible
+set sidebar_width = 16 
+set sidebar_format = "%B%?F? [%F]?%* %?N?%N/?%S"
+set mail_check_stats
+# bind index,pager \CP sidebar-prev           # previous mailbox
+# bind index,pager \CN sidebar-next           # next mailbox
+# bind index,pager \CO sidebar-open           # open highlighted mailbox
+bind index,pager B sidebar-toggle-visible   # switch sidebar on and off
+bind index,pager \Ck sidebar-prev
+bind index,pager \Cj sidebar-next
+bind index,pager \Co sidebar-open
+bind index,pager \Cp sidebar-prev-new
+bind index,pager \Cn sidebar-next-new
+
+set sort = "reverse-date"
+set mark_old = "no"
+set delete
+
+set header_cache = "~/.cache/neomutt"
+set message_cachedir = "~/.cache/neomutt"
+
+auto_view text/html 
+set auto_tag
+# set pager = "nvim"
+set wait_key = "no"
+
+set fast_reply
+set forward_quote
+set forward_attachments = "yes"
+set include
+set fcc_attach
+set reverse_name
+set forward_format = "Fwd: %s"
+
+bind index,pager i noop
+bind index,pager g noop
+bind index \Cf noop
+bind index,pager M noop
+bind index,pager C noop
+
+bind index gg first-entry
+bind index j next-entry
+bind index k previous-entry
+bind attach <return> view-mailcap
+bind attach l view-mailcap
+bind editor <space> noop
+bind index G last-entry
+bind pager,attach h exit
+bind pager j next-line
+bind pager k previous-line
+bind pager l view-attachments
+bind index D delete-message
+bind index U undelete-message
+bind index L limit
+bind index h noop
+bind index l display-message
+bind index,query <space> tag-entry
+#bind browser h goto-parent
+macro browser h '<change-dir><kill-line>..<enter>' "Go to parent folder"
+bind index,pager H view-raw-message
+bind browser l select-entry
+bind browser gg top-page
+bind browser G bottom-page
+bind pager gg top
+bind pager G bottom
+bind index,pager,browser d half-down
+bind index,pager,browser u half-up
+bind index,pager S sync-mailbox
+bind index,pager R group-reply
+bind index \031 previous-undeleted	# Mouse wheel
+bind index \005 next-undeleted		# Mouse wheel
+bind pager \031 previous-line		# Mouse wheel
+bind pager \005 next-line		# Mouse wheel
+bind editor <Tab> complete-query
+
+macro index,pager gi "<change-folder>=INBOX<enter>" "go to inbox"
+macro index,pager Mi ";<save-message>=INBOX<enter>" "move mail to inbox"
+macro index,pager Ci ";<copy-message>=INBOX<enter>" "copy mail to inbox"
+macro index,pager gd "<change-folder>=Drafts<enter>" "go to drafts"
+macro index,pager Md ";<save-message>=Drafts<enter>" "move mail to drafts"
+macro index,pager Cd ";<copy-message>=Drafts<enter>" "copy mail to drafts"
+macro index,pager gj "<change-folder>=Junk<enter>" "go to junk"
+macro index,pager Mj ";<save-message>=Junk<enter>" "move mail to junk"
+macro index,pager Cj ";<copy-message>=Junk<enter>" "copy mail to junk"
+macro index,pager gt "<change-folder>=Trash<enter>" "go to trash"
+macro index,pager Mt ";<save-message>=Trash<enter>" "move mail to trash"
+macro index,pager Ct ";<copy-message>=Trash<enter>" "copy mail to trash"
+macro index,pager gs "<change-folder>=Sent<enter>" "go to sent"
+macro index,pager Ms ";<save-message>=Sent<enter>" "move mail to sent"
+macro index,pager Cs ";<copy-message>=Sent<enter>" "copy mail to sent"
+macro index,pager ga "<change-folder>=Archive<enter>" "go to archive"
+macro index,pager Ma ";<save-message>=Archive<enter>" "move mail to archive"
+macro index,pager Ca ";<copy-message>=Archive<enter>" "copy mail to archive"
+
+macro index \Cr "T~U<enter><tag-prefix><clear-flag>N<untag-pattern>.<enter>" "mark all messages as read"
+macro index O "<shell-escape>fdm fetch<enter>" "fetch mail with fdm"
+macro index A "<limit>all\n" "show all messages (undo limit)"
+
+# References
+#
+# https://github.com/LukeSmithxyz/mutt-wizard/blob/master/share/mutt-wizard.muttrc
