@@ -56,13 +56,13 @@ pipePath = /tmp/skippy-xd-fifo
 clientList = _NET_CLIENT_LIST
 
 # Background picture when skippy-xd is activated
-background =
+background = 1920x1200 scale mid mid #000000 /home/klein/Pictures/backgrounds/space.jpg
 
 # Frequency to update pixmaps
 updateFreq = 60.0
 
 # Allow other compositors such as picom handle transparency
-lazyTrans = true
+lazyTrans = false
 
 # Move the mouse cursor when skippy is activated
 movePointer = false
@@ -75,7 +75,7 @@ animationDuration = 200
 distance = 50
 
 # Whether to display window frames
-includeFrame = true
+includeFrame = false
 
 # Whether to show the window bigger than its original size
 allowUpscale = true
